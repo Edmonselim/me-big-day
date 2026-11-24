@@ -2,7 +2,7 @@
 // After registering the app in Azure (see SETUP.md), paste its
 // "Application (client) ID" below, commit, and you're done.
 export const CONFIG = {
-  clientId: 'PASTE-YOUR-CLIENT-ID-HERE',
+  clientId: '7dd9ecab-19c2-47a3-a510-93a12822af61',
 
   // 'common' lets both personal Microsoft accounts and work accounts sign in.
   authority: 'common',
